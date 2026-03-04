@@ -2,7 +2,7 @@
 Парсер расписания на сегодняшний день с помощью api колледжа.
 
 ## развертывание
-`docker compose up -d --build` на тачке просто `python -m srentusha`
+`docker compose up -d --build` на тачке просто `python -m nkpiit_parser`
 
 ## в планах
 1. отрефачить код до вменяемого состояния
